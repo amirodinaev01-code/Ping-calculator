@@ -1,5 +1,3 @@
-# Ping-calculator
-
 # Ping Calculator
 
 A simple command-line tool written in **Go** to evaluate network latency.
